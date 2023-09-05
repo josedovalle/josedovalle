@@ -8,3 +8,5 @@ Estou numa constante crescente na área de desenvolvimento web, utilizando novos
 * CSS3;
 * JavaScript;
 * NodeJS;
+* ReactJS;
+* TypeScript;
